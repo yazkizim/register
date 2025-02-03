@@ -1,0 +1,12 @@
+{
+    "description": "gokhan.is-a.dev",
+    "owner": {
+        "username": "yazkizim",
+        "email": "gkhntasci@gmail.com"
+    },
+    "record": {
+        "A": [
+            "172.67.142.2"
+        ]
+    }
+}
